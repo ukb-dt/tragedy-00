@@ -1,5 +1,5 @@
 
-> *[Tragedy is a regularizer](https://ukb-dt.github.io/econ`-00/)*            
+> *[Tragedy is a regularizer](https://ukb-dt.github.io/econ-00/)*            
 > *It penalizes premature convergence*        
 > *Religion, ideology, opium—these are early stopping rules.*       
 > *They declare a shallow basin “destiny.”*       
